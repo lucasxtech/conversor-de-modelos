@@ -1,0 +1,117 @@
+# Categorias de Modelos da API Oficial do WhatsApp Business
+
+## Marketing
+
+Categoria destinada a campanhas promocionais e ações de marketing para divulgar produtos, serviços e ofertas especiais.
+
+**Casos de uso comuns:**
+• Promoções e ofertas especiais com desconto
+• Lançamentos de novos produtos ou serviços
+• Campanhas sazonais (Black Friday, Natal, etc.)
+• Newsletters promocionais com novidades
+• Eventos, webinars e workshops
+• Programas de fidelidade e recompensas
+• Anúncios de liquidações e queima de estoque
+• Convites para eventos corporativos
+
+**Restrições ou boas práticas:**
+• Deve incluir opção clara de cancelamento de inscrição
+• Envio permitido apenas entre 8h e 20h (horário local)
+• Template deve ser pré-aprovado pelo WhatsApp
+• Não pode ser usado para transações financeiras
+• Conteúdo deve ser verdadeiro e não enganoso
+• Não pode conter spam ou conteúdo inadequado
+• Deve respeitar as políticas de privacidade
+
+---
+
+## Utilidade
+
+Categoria para enviar informações úteis e atualizações importantes sobre produtos, serviços ou conta do cliente.
+
+**Casos de uso comuns:**
+• Confirmações de pedidos e compras
+• Atualizações de status de entrega
+• Lembretes de compromissos e agendamentos
+• Informações sobre conta e perfil
+• Notificações de sistema e manutenção
+• Avisos sobre mudanças de política
+• Confirmações de reservas e bookings
+• Atualizações sobre serviços contratados
+• Lembretes de pagamentos e vencimentos
+• Informações sobre garantias e suporte
+
+**Restrições ou boas práticas:**
+• Conteúdo deve ser puramente informativo
+• Não pode conter elementos promocionais
+• Informação deve ser relevante para o usuário
+• Template deve ser claro e objetivo
+• Não pode ser usado para marketing
+• Deve focar em benefício direto ao cliente
+
+---
+
+## Autenticação
+
+Categoria específica para códigos de verificação, confirmações de segurança e processos de autenticação.
+
+**Casos de uso comuns:**
+• Códigos de verificação (OTP) para login
+• Confirmação de acesso em nova conta
+• Recuperação de senha e reset de conta
+• Verificação de identidade em transações
+• Autenticação em duas etapas (2FA)
+• Confirmação de alterações de dados
+• Códigos de ativação de serviços
+• Verificação de dispositivos novos
+• Códigos de acesso temporários
+• Confirmação de operações sensíveis
+
+**Restrições ou boas práticas:**
+• Apenas códigos numéricos são permitidos
+• Tempo de expiração deve ser claramente informado
+• Não pode conter links externos
+• Template deve ser simples e direto
+• Não pode incluir conteúdo promocional
+• Deve incluir aviso de segurança
+• Código deve ser único e não reutilizável
+
+---
+
+## Serviço ao Cliente
+
+Categoria para suporte ao cliente, atendimento personalizado e resolução de problemas e solicitações.
+
+**Casos de uso comuns:**
+• Suporte técnico e resolução de problemas
+• Agendamento de consultas e atendimentos
+• Acompanhamento de solicitações de suporte
+• Atendimento personalizado e consultoria
+• Resolução de reclamações e dúvidas
+• Orientações sobre produtos e serviços
+• Agendamento de manutenções e visitas
+• Solicitações de orçamentos e propostas
+• Acompanhamento de processos e status
+• Atendimento pós-venda e garantia
+
+**Restrições ou boas práticas:**
+• Foco deve ser no atendimento ao cliente
+• Pode incluir links de suporte e ajuda
+• Tom deve ser profissional e cordial
+• Template deve facilitar o contato
+• Não pode ser usado para marketing
+• Deve priorizar a resolução do problema
+• Informações de contato devem estar claras
+
+---
+
+## Informações Importantes
+
+**Processo de Aprovação:**
+Todos os templates devem ser pré-aprovados pelo WhatsApp antes de serem utilizados. O processo de aprovação pode levar de 24 horas a alguns dias úteis. Mantenha seus templates simples, claros e alinhados com as políticas do WhatsApp para acelerar o processo de aprovação.
+
+**Como Escolher a Categoria Correta:**
+• **Marketing:** Use quando quiser promover produtos, ofertas ou campanhas promocionais
+• **Utilidade:** Use para informar sobre status de pedidos, confirmações e atualizações importantes
+• **Autenticação:** Use exclusivamente para códigos de verificação e processos de segurança
+• **Serviço ao Cliente:** Use para suporte, atendimento e resolução de problemas dos clientes

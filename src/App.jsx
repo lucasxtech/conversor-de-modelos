@@ -1,6 +1,6 @@
 import React from 'react';
 import WhatsAppPricingCalculator from './WhatsAppPricingCalculator.jsx';
-import './index.css'; // Importa os estilos base
+import './index.css';
 
 function App() {
   return (

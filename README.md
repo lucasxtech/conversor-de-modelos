@@ -1,12 +1,41 @@
-# React + Vite
+# 🛠️ Conversor de Modelos - API Oficial WhatsApp Business
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto tem como objetivo apresentar e explicar os **modelos de mensagem** da API Oficial do WhatsApp Business, ajudando empresas a entenderem as categorias e usarem corretamente cada tipo.
 
-Currently, two official plugins are available:
+## 📂 Categorias de Modelos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Marketing** – Para campanhas promocionais e ofertas especiais.
+- **Utilidade** – Para informações úteis, como confirmações de pedidos e atualizações.
+- **Autenticação** – Para envio de códigos de verificação e segurança.
+- **Serviço ao Cliente** – Para suporte e resolução de dúvidas.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tecnologias Utilizadas
+
+- **React.js** (ou framework que você usou)
+- **JavaScript / TypeScript**
+- **HTML5 / CSS3**
+- **GitHub Pages** para deploy
+
+---
+
+## 🔧 Como rodar o projeto localmente
+
+1. Clone este repositório:
+
+   git clone https://github.com/menezexbjj/convertor-de-modelos.git
+
+Acesse a pasta do projeto:
+
+cd convertor-de-modelos
+
+Instale as dependências:
+
+npm install
+
+Inicie o servidor local:
+
+npm start
+
+O projeto estará disponível em http://localhost:3000/.

@@ -24,11 +24,11 @@ Este projeto tem como objetivo apresentar e explicar os **modelos de mensagem** 
 
 1. Clone este repositório:
 
-   git clone https://github.com/menezexbjj/convertor-de-modelos.git
+   git clone https://github.com/menezexbjj/conversor-de-modelos.git
 
 Acesse a pasta do projeto:
 
-cd convertor-de-modelos
+cd conversor-de-modelos
 
 Instale as dependências:
 
@@ -42,4 +42,4 @@ O projeto estará disponível em http://localhost:3000/.
 
 ## 🌐 Deploy
 
-O projeto está disponível em: https://lucasxtech.github.io/convertor-de-modelos/
+O projeto está disponível em: https://lucasxtech.github.io/conversor-de-modelos/

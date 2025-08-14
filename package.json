@@ -2,7 +2,7 @@
   "name": "conversor-de-modelos",
   "private": true,
   "version": "0.0.0",
-      "homepage": "https://lucasxtech.github.io/conversor-de-modelos",
+  "homepage": "https://lucasxtech.github.io/conversor-de-modelos",
   "type": "module",
   "scripts": {
     "dev": "vite",

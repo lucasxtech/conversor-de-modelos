@@ -24,7 +24,7 @@ Este projeto tem como objetivo apresentar e explicar os **modelos de mensagem** 
 
 1. Clone este repositório:
 
-   git clone https://github.com/menezexbjj/conversor-de-modelos.git
+   git clone https://github.com/lucasxtech/conversor-de-modelos.git
 
 Acesse a pasta do projeto:
 

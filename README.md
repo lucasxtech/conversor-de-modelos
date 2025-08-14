@@ -39,3 +39,7 @@ Inicie o servidor local:
 npm start
 
 O projeto estará disponível em http://localhost:3000/.
+
+## 🌐 Deploy
+
+O projeto está disponível em: https://lucasxtech.github.io/convertor-de-modelos/

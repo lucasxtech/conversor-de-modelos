@@ -1,8 +1,8 @@
 {
-  "name": "minha-calculadora",
-  "homepage": "https://menezexbjj.github.io/convertor-de-modelos",
+  "name": "convertor-de-modelos",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://lucasxtech.github.io/convertor-de-modelos",
   "type": "module",
   "scripts": {
     "dev": "vite",
